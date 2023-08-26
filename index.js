@@ -71,7 +71,7 @@ $(document).ready(function () {
 
 // per impedire che al click vengano aperte nuove schede
 const imageUrls = [
-  "images/"sartoria.png",
+  "images/sartoria.png",
   "images/Ezzelino_Website.jfif",
   "images/Fratellinoviello_website.jfif",
   "images/Vincenzo_Website.png",
