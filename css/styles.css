@@ -808,3 +808,14 @@ textarea {
     height: auto;
   }
 }
+
+@media screen and (max-width: 979px) {
+
+  .scroll-down{
+    display: none;
+  }
+  .code_pastebin{
+    display: none;
+  }
+  
+}
