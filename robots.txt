@@ -1,0 +1,2 @@
+User-agent: *
+Allow: https://gscogna.github.io/portfolio/
