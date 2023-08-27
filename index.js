@@ -74,22 +74,14 @@ const imageUrls = [
   "images/sartoria.png",
   "images/Ezzelino_Website.jfif",
   "images/Fratellinoviello_website.jfif",
-  "images/Vincenzo_Website.png",
-  "images/spotify_replica.jfif",
-  "images/digital_replica.jfif",
-  "images/whatsapp_replica.jfif",
-  "images/barberia_wp_replica.jfif"
+  "images/Vincenzo_Website.png"
 ];
 
 const links = [
   "https://sartoriadilusso.shop/",
   "https://ezzelinoofficial.it/",
   "https://fratellinoviello.it/",
-  "https://www.vincenzodiruggiero.com/",
-  "images/spotify_replica.jfif",
-  "images/digital_replica.jfif",
-  "images/whatsapp_replica.jfif",
-  "images/barberia_wp_replica.jfif"
+  "https://www.vincenzodiruggiero.com/"
 ];
 
 const magicWallList = document.getElementById("magic-wall-list");
