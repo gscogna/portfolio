@@ -315,8 +315,7 @@ header {
 .fake-magicwall ul {
   list-style: none;
   display: flex;
-  display: -ms-flexbox;
-  display: -webkit-box;
+  justify-content: space-around;
   flex-wrap: wrap;
 }
 .fake-magicwall ul li {
